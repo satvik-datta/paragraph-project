@@ -1,0 +1,36 @@
+#name {
+    font-family: cursive;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+body {
+    background-color: wheat;
+    color: black;
+    text-align: center;
+}
+
+#name1 {
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#button {
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: coral;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+#diynamic_div {
+    margin-left: 200px;
+}
+
+#diynamic_div1 {
+    margin-left: 500px;
+}
